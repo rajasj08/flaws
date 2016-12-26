@@ -1,0 +1,56 @@
+<?php
+ $username=$_post['username'];
+        $comment=$_POST['comment'];
+        $emailid=$_POST['emailid'];
+        $productname=$_POST['productname'];
+        $phoneno=$_POST['phoneno'];
+        $to='rselakki@gmail.com'; 
+
+
+        /* $subject='Product Enquiry';
+        $message="Dear Admin,<br/><p>You have received an enquiry for the below product.</p><br/>Name:&nbsp; ".$username."<br/>Product:&nbsp; ".$productname."<br/>Phone Number: &nbsp; ".$phoneno."<br/>Comment:&nbsp; ".$comment."<br/>Email : &nbsp; ".$emailid."<br/><br/>Thank you."; 
+
+        $headers  = 'MIME-Version: 1.0' . "\r\n";
+        $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+        $headers .= 'X-Mailer: PHP/' . phpversion();  
+        // More headers
+        $headers .= 'From: <"order@footlounge.in">' . "\r\n";  
+
+        if(mail($to,$subject,$message,$headers)) echo 1; else echo 0; */
+  
+  
+/*require 'vendor/autoload.php';
+       
+        use Mailgun\Mailgun;
+        $username=$_POST['username'];
+        $comment=$_POST['comment'];
+        $emailid=$_POST['emailid'];
+        $productname=$_POST['productname'];
+        $phoneno=$_POST['phoneno'];
+
+        $subject='User Feedback';
+        $message="Hello Sir,<br/><br/>User Name:&nbsp; ".$username."<br/>Product Name:&nbsp; ".$productname."<br/>Phone Number: &nbsp; ".$phoneno."<br/>Commment:&nbsp; ".$comment."<br/>Email ID: &nbsp; ".$emailid."";
+
+
+
+            //$test=$this->load->model('vendor/autoload.php'); 
+
+            //print_r($test); 
+            $mg = new Mailgun("key-3m-uvaewhxf4pbfu2gf8m4f74mdqbqi7");
+            $domain = "sandboxd324fc3ac935484886c4a4a13dd3a0ea.mailgun.org";
+           
+                                if($mg->sendMessage($domain, array(
+                                    'from'=>$_POST['emailid'], 
+                                    'to'=> 'rselakki@gmail.com',  
+                                    'subject' => $subject, 
+                                    'html' => $message  
+                                        )
+                                    ))
+
+
+                               echo 1; 
+                           else echo 0;*/
+
+
+
+?>

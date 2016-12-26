@@ -1,0 +1,54 @@
+---------- Date: 2016-09-26 00:50:07 ~ IP : 182.65.95.176 ----------
+REQUEST URI : /men/accessories/ankle-socks/adidas-r-l-ankle-t1p-multi-color-socks
+MOD DETAILS:
+   modFile   : /home/footlounge/public_html/vqmod/xml/getproduct_category.xml
+   id        : Add google analytics ecommerce tracking code
+   version   : 2.2 for OpenCart 1.5.0.x - 1.5.6.x
+   vqmver    : 2.x
+   author    : support@extensadev.com
+
+File Name    : catalog/view/theme/*/template/product/product.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): 'https://gofootlounge.in/index.php?route=information/information&information_id=7#<?php echo $manufacturer; ?>'
+
+File Name    : catalog/view/theme/*/template/product/product.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): 'https://gofootlounge.in/betademo/index.php?route=information/information&information_id=7#<?php echo $manufacturer; ?>'
+MOD DETAILS:
+   modFile   : /home/footlounge/public_html/vqmod/xml/pavdeals.xml
+   id        : Pavo Deals
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : Themes
+
+File Name    : catalog/view/theme/*/template/product/product.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php if ($profiles): ?>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2016-09-26 09:03:44 ~ IP : 182.65.95.176 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=970
+MOD DETAILS:
+   modFile   : /home/footlounge/public_html/vqmod/xml/getproduct_category.xml
+   id        : Add google analytics ecommerce tracking code
+   version   : 2.2 for OpenCart 1.5.0.x - 1.5.6.x
+   vqmver    : 2.x
+   author    : support@extensadev.com
+
+File Name    : catalog/view/theme/*/template/product/product.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): 'https://gofootlounge.in/index.php?route=information/information&information_id=7#<?php echo $manufacturer; ?>'
+
+File Name    : catalog/view/theme/*/template/product/product.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): 'https://gofootlounge.in/betademo/index.php?route=information/information&information_id=7#<?php echo $manufacturer; ?>'
+MOD DETAILS:
+   modFile   : /home/footlounge/public_html/vqmod/xml/pavdeals.xml
+   id        : Pavo Deals
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : Themes
+
+File Name    : catalog/view/theme/*/template/product/product.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php if ($profiles): ?>
+
+----------------------------------------------------------------------
+
+

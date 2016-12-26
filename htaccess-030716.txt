@@ -1,0 +1,825 @@
+RewriteEngine on
+RewriteBase /
+
+
+redirect /MEN/ADIDAS/Adidas-Cross-EM3-Grey-Basketball-Shoes-p120c151&C=INR&limit=16 https://gofootlounge.in/adidas-cross-em3-grey-basketball-shoes?
+
+redirect /MEN/ADIDAS/ADIDAS-CROSS-EM-3-p120c151 https://gofootlounge.in/adidas-cross-em3-grey-basketball-shoes?
+
+	redirect /FITNESS/DUMBELLS/REEBOK/Reebok-Dumbbell-2KG-ONE-UNIT-p133c140c145 https://gofootlounge.in/reebok-pink-dumb-bell?
+
+	redirect /FITNESS/DUMBELLS/REEBOK/REEBOK-Dumbbell-1KG-ONE-UNIT-p134c140c145 https://gofootlounge.in/reebok-grey-dumb-bell?
+
+	redirect /FITNESS/DUMBELLS/REEBOK/REEBOK-Dumbbell-3KG-ONE-UNIT-p135c140c145 https://gofootlounge.in/reebok-black-dumb-bell?
+
+	redirect /FITNESS/POWER-TUBE/REEBOK/Reebok-Gym-Ball-65cm-p141c140c144 https://gofootlounge.in/reebok-75cm-gym-ball?
+
+redirect /FITNESS/ANKLE-WEIGHT/REEBOK/Reebok-Elements-Ankle-Weights-with-Velcro-Strap-pair-1kg-p145c140c148 https://gofootlounge.in/reebok-ankle-weights-1.0kg-blue-647c?
+
+	redirect /LIFESTYLE-SANDALS/ADIDAS/ADIDAS-ADWEN-W-p155c221 https://gofootlounge.in/adidas-adwen-w-multi-color-sandal?
+
+	redirect /FLIP-FLOPS/ADIDAS/ADIDAS-MELIA-p163c223 https://gofootlounge.in/adidas-melia-ss14-multi-color-flip-flops?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-Yago-M-p169c222 https://gofootlounge.in/adidas-yago-m-black-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-HELION-M-p188c222 https://gofootlounge.in/adidas-hellion-m-black-running-shoe?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-LUNETT-M-p214c222 https://gofootlounge.in/adidas-lunett-m-navy-blue-running-shoe?
+
+	redirect /Women/ACCESSORIES/BAGPACK/REEBOK/REEBOK-OS-EL-Backpack-p260c152c179c189 https://gofootlounge.in/reebok-os-el-green-back-pack?
+
+redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-HELION-W-p266c222 https://gofootlounge.in/adidas-hellion-w-grey-running-shoe?
+
+	redirect /Women/FOOTWEAR/WALKING/REEBOK/REEBOK-SKYSCAPE-RUNAROUND-p296c152c178c180 https://gofootlounge.in/reebok-skyscape-runaround-red-walking-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ACCIOMAX-5-0-LP-p298c222 https://gofootlounge.in/reebok-acciomax-5.0-lp-navy-blue-running-shoes?
+
+	redirect /MEN/REEBOK/REEBOK-R-Crossfit-Sprint-2-0-p300c151 https://gofootlounge.in/reebok-r-crossfit-sprint-2.0-black-training-shoe?
+
+	redirect /MEN/REEBOK/REEBOK-TRAIN-FAST-XT-p302c151 https://gofootlounge.in/reebok-train-fast-xt-black-running-shoe?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-DREAM-RUNNER-LP-p308c222 https://gofootlounge.in/reebok-dream-runner-lp-black-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-Cardio-Workout-Low-p312c222 https://gofootlounge.in/reebok-cardio-workout-low-rs-cardio-shoes?
+
+	redirect /Women/ACCESSORIES/BAGPACK/AMERICAN-TOURISTER/AT-CODE-14-p333c152c179c189 https://gofootlounge.in/at-code-14-grey-back-pack?
+
+	#doubt link
+
+	redirect /Women/ACCESSORIES/BAGPACK/AMERICAN-TOURISTER/AT-BUZZ-14-BRN-YEL-p334c152c179c189 https://gofootlounge.in/at-buzz-14-brn/yel-brown-back-pack?
+
+
+	redirect /Women/ACCESSORIES/BAGPACK/AMERICAN-TOURISTER/AT-BUZZ-14-BRN-RUST-p337c152c179c189 https://gofootlounge.in/at-buzz-14-brn/rust-brown-back-pack?
+
+	redirect /Women/ACCESSORIES/BAGPACK/AMERICAN-TOURISTER/AT-CITI-PRO-13-PUR-p342c152c179c189 https://gofootlounge.in/at-citi-pro-13-pur-purple-back-pack?
+
+	redirect /Women/ACCESSORIES/BAGPACK/ADIDAS/ADIDAS-BP-POWER-II-p356c152c179c189 https://gofootlounge.in/adidas-bp-power-ii-black-back-pack?
+
+	redirect /Women/ACCESSORIES/BAGPACK/ADIDAS/ADIDAS-BP-POWER-II-p358c152c179c189 https://gofootlounge.in/adidas-bp-power-ii-navy-blue-back-pack?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/NIKE-Revolve-BLK-p364c222 https://gofootlounge.in/nike-revolve-black-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/NIKE-FLEX-EXPERIENCE-RN-3-MSL-p365c222 https://gofootlounge.in/nike-flex-experience-rn-3-msl-navy-blue-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/NIKE-RELENTLESS-4-MSL-p366c222 https://gofootlounge.in/nike-relentless-4-msl-grey-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/NIKE-Revolve-GRY-p367c222 https://gofootlounge.in/nike-revolve-gry-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/NIKE-WILD-TRAIL-p368c222 https://gofootlounge.in/nike-wild-trail-black-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/NIKE-Emerge-BLUE-p369c222 https://gofootlounge.in/nike-emerge-blue-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/NIKE-Emerge-Wns-p370c222 https://gofootlounge.in/nike-emerge-wns-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/NIKE-Dart-10-MSL-p371c222 https://gofootlounge.in/nike-dart-10-msl-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/NIKE-Dart-10-GRY-p372c222 https://gofootlounge.in/nike-dart-10-gry-running-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-BRIGHTON-p383c151 https://gofootlounge.in/adidas-brighton-white-tennis-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-ISOLATION-2-p387c151 https://gofootlounge.in/adidas-isolation-2-grey-basketball-shoe?
+
+	redirect /MEN/ADIDAS/ADIDAS-BARRACKS-F10-p391c151 https://gofootlounge.in/adidas-barracks-f10-black-training-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-11QUESTRA-FG-p393c151 https://gofootlounge.in/%C2%A0adidas-11-questra-fg-black-football-shoes?
+
+	redirect /FLIP-FLOPS/ADIDAS/ADIDAS-BEACH-PRINT-M-p397c223 https://gofootlounge.in/adidas-beach-print-m-black-flip-flops-?
+
+	redirect /FLIP-FLOPS/ADIDAS/ADIDAS-BEACH-PRINT-W-p398c223 https://gofootlounge.in/adidas-beach-print-w-black-flip-flops-?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-HACHI-M-p406c222 https://gofootlounge.in/adidas-hachi-m-navy-blue-running-shoes?
+
+	redirect /KIDS/FOOTWEAR/RUNNING/ADIDAS/ADIDAS-DURAMO-6-K-p409c209c210c211 https://gofootlounge.in/adidas-duramo-6k-black-running-shoes?
+
+#doubt link
+	redirect /Apparel/ADIDAS/ADIDAS-BASE-PLAIN-PANT-p415c220 https://gofootlounge.in/adidas-base-plain-black-pant?
+
+	redirect /Apparel/ADIDAS/ADIDAS-BASE-SHORT-WV-p417c220 https://gofootlounge.in/adidas-base-navy-blue-wv-short?
+
+	redirect /Apparel/ADIDAS/ADIDAS-BASE-PLAIN-TEE-p419c220 https://gofootlounge.in/adidas-base-plain-red-tee?
+
+	redirect /Apparel/ADIDAS/ADIDAS-BARRICADE-AM-PR-p422c220 https://gofootlounge.in/adidas-barricade-am-pr-clear-grey-tee?
+
+	redirect /Apparel/ADIDAS/ADIDAS-W-AP-TEE-p423c220 https://gofootlounge.in/adidas-w-ap-blue-tee?
+
+	redirect /MEN/ADIDAS/ADIDAS-RESPONSE-APPROACH-STR-p435c151 https://gofootlounge.in/adidas-resp-approach-str-white-tennis-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-22YDS-TRAINER-p436c151 https://gofootlounge.in/%C2%A0adidas-22-yds-trainer-white-cricket-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-DURAMO-ELITE-M-p439c222 https://gofootlounge.in/adidas-duramo--elite-m-multi-color-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/NIKE-LITE-FORCE-III-p445c222 https://gofootlounge.in/nike-lite-force-iii-grey-running-shoes?
+
+	#doubt link
+	redirect /Apparel/ADIDAS/ADIDAS-RESPONSE-TEE-p453c220 https://gofootlounge.in/adidas-response-black-tee?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ZQUICK-DASH-CITY-p461c222 https://gofootlounge.in/reebok-zquick-dash-city-navy-blue-training-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ZPUMP-FUSION-p463c222 https://gofootlounge.in/reebok-zpump-fusion-white-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-One-Guide-2-0-p464c222 https://gofootlounge.in/reebok-one-guide-2.0-multi-color-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ZIG-SQUARED-RUSH-p472c222 https://gofootlounge.in/reebok-zig-squared-rush-black-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ZCUT-TR-p473c222 https://gofootlounge.in/reebok-zcut-tr-black-running-shoes?
+
+	redirect /Apparel/ADIDAS/ADIDAS-RESP-SHORT-p485c220 https://gofootlounge.in/adidas-resp-white-shorts?
+
+	#dount link
+	redirect /Apparel/ADIDAS/ADIDAS-RSP-5-INCH-SH-M-p489c220 https://gofootlounge.in/adidas-rsp-5inch-black-short-m?
+
+redirect /Apparel/ADIDAS/ADIDAS-FITTED-SS-p498c220 https://gofootlounge.in/adidas-fitted-ss-black-tees?
+
+	#doubt link
+	redirect /Apparel/ADIDAS/ADIDAS-ESS-3S-WV-PANT-p504c220 https://gofootlounge.in/adidas-ess-3s-wv-black-pant?
+
+	redirect /FITNESS/POWER-TUBE/REEBOK/UNISEX-REEBOK-TRAINING-POWER-TUBE-L5-FITNESS-PRODUCT-p519c140c144 https://gofootlounge.in/reebok-power-tube-grey-l5?
+
+	redirect /FITNESS/POWER-TUBE/REEBOK/UNISEX-REEBOK-TRAINING-POWER-TUBE-L3-FITNESS-PRODUCT-p520c140c144 https://gofootlounge.in/reebok-power-tube-grey-l3?
+
+	#dount link
+	redirect /ADIDAS-BASE-3S-PANT-WV-p553c220 https://gofootlounge.in/adidas-base-3s-black-pant-?
+
+	#doubt link
+	redirect /Apparel/ADIDAS/ADIDAS-ESS-STANDFORD-B-p560c220 https://gofootlounge.in/adidas-ess-standford-b-black-track-pant?
+
+	redirect /Apparel/ADIDAS/ADIDAS-PRIME-TEE-BL-p568c220 https://gofootlounge.in/adidas-prime-black-tee-?
+
+	redirect /Women/ACCESSORIES/CAPS/ADIDAS/ADIDAS-PERF-CAP-LOGO-p595c152c179c181 https://gofootlounge.in/adidas-perf-logo-black-cap?
+
+	redirect /Women/ACCESSORIES/CAPS/ADIDAS/ADIDAS-CLMLT-CAP-H-p596c152c179c181 https://gofootlounge.in/adidas-clmlt-h-pink-cap?
+
+	redirect /Women/ACCESSORIES/ANKLE-SOCKS/ADIDAS/ADIDAS-3S-ANKLE-HC-3PP-p599c152c179c183 https://gofootlounge.in/%C2%A0adidas-3s-ankle-hc-3pp-grey-socks?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/ANKLE-SOCKS/ADIDAS/ADIDAS-3S-ANKLE-HC-1PP-p600c152c179c183 https://gofootlounge.in/%C2%A0adidas-3s-ankle-hc-1pp-black-socks?
+
+	redirect /Women/ACCESSORIES/CREW-SOCKS/ADIDAS/ADIDAS-3S-CREW-HC-3PP-p603c152c179c191 https://gofootlounge.in/%C2%A0adidas-3s-crew-hc-3pp-multi-color-socks?
+
+	redirect /FITNESS/BOTTLE/ADIDAS/ADIDAS-PERF-BOTTL-0-75-p606c140c150 https://gofootlounge.in/adidas-perf-bottl-0.75-black-water-bottle?
+
+	redirect /FITNESS/BOTTLE/ADIDAS/ADIDAS-CFC-3S-BOTTLE-p607c140c150 https://gofootlounge.in/adidas-cfc-3s-black-bottle?
+
+	redirect /MEN/FILA/FILA-Cross-p608c151 https://gofootlounge.in/fila-cross-navy-blue-casual-shoes?
+
+	redirect /MEN/FILA/FILA-Smash-Lite-p609c151 https://gofootlounge.in/fila-smash-lite-black-running-shoes?
+
+	redirect /FITNESS/BOTTLE/ADIDAS/ADIDAS-REAL-3S-BOTTLE-p610c140c150 https://gofootlounge.in/adidas-real-3s-black-water-bottle?
+
+	redirect /FITNESS/BOTTLE/ADIDAS/ADIDAS-POLY-BOTTLE-0-7-p611c140c150 https://gofootlounge.in/adidas-poly-solar-gold-bottle-0.7-?
+
+	redirect /FITNESS/BOTTLE/ADIDAS/ADIDAS-POLY-BOTTLE-07-p612c140c150 https://gofootlounge.in/adidas-poly-vivid-mint-bottle-0.7-?
+
+	redirect /PERFORMANCE-RUNNING/FILA/FILA-Hammer-Blk-p613c222 https://gofootlounge.in/fila-hammer-blk-running-shoes?
+
+	#doubt link
+	redirect /FITNESS/BOTTLE/ADIDAS/ADIDAS-CLASSICBTL-05L-p615c140c150 https://gofootlounge.in/adidas-classicbtl-0.5l-black-bottle?
+
+	#doubt link
+	redirect /FITNESS/BOTTLE/ADIDAS/ADIDAS-CLASSICBTL-0-5L-p622c140c150 https://gofootlounge.in/adidas-classicbtl-0.5l-blue-bottle?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/HEADBAND/ADIDAS/ADIDAS-TEN-HEADBAND-p629c152c179c187 https://gofootlounge.in/adidas-ten-white-headband?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/WRISTBAND/ADIDAS/ADIDAS-TEN-WB-L-2-p635c152c179c185 https://gofootlounge.in/adidas-ten-wb-l-2-multi-color---wristband?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/WRISTBAND/ADIDAS/ADIDAS-TEN-WB-L-p641c152c179c185 https://gofootlounge.in/adidas-ten-wb-l-white-wristband?
+
+	redirect /Women/ACCESSORIES/WALLET/ADIDAS/ADIDAS-W-PERF-WALL-p647c152c179c190 https://gofootlounge.in/adidas-w-perf-black-wallet?
+
+	redirect /Women/ACCESSORIES/WALLET/ADIDAS/ADIDAS-LIN-PER-WALLET-p648c152c179c190 https://gofootlounge.in/adidas-lin-per-royal-blue-wallet?
+
+	redirect /Women/ACCESSORIES/WALLET/ADIDAS/ADIDAS-3S-PER-WALLET-p650c152c179c190 https://gofootlounge.in/%C2%A0adidas-3s-per-navy-blue-wallet?
+
+	redirect /Women/ACCESSORIES/WALLET/ADIDAS/ADIDAS-3S-ESS-WALLET-p651c152c179c190 https://gofootlounge.in/%C2%A0adidas-3s-ess-black-wallet?
+
+	redirect /Women/ACCESSORIES/WALLET/ADIDAS/ADIDAS-LINEAR-ESS-WALL-p652c152c179c190 https://gofootlounge.in/adidas-linear-ess-black-wallet?
+
+#doubt link
+	redirect /Apparel/REEBOK/REEBOK-RCF-TRIBLEND-1-p660c220 https://gofootlounge.in/reebok-rcf-triblend-1-olive-tees?
+
+	redirect /Apparel/REEBOK/REEBOK-OS-SS-COMP-A-p663c220 https://gofootlounge.in/reebok-os-ss-comp-a-blue-jersey?
+
+	redirect /Apparel/REEBOK/REEBOK-SE-COREKNITPANT-p695c220 https://gofootlounge.in/reebok-se-core-knit-navy-blue-track-pants?
+
+	redirect /Apparel/REEBOK/REEBOK-OS-KN-TRACKSTER-p697c220 https://gofootlounge.in/reebok-os-kn-dark-grey-trackster?
+
+	redirect /Apparel/REEBOK/REEBOK-OS-WV-TRACKSTER-p699c220 https://gofootlounge.in/reebok-os-wv-dark-grey-trackster?
+
+	redirect /Apparel/REEBOK/REEBOK-SE-PP-FIT-BT-p703c220 https://gofootlounge.in/reebok-se-pp-fit-bt-black-track-pant?
+
+	redirect /Apparel/REEBOK/REEBOK-OS-2-IN-1-SHORT-p708c220 https://gofootlounge.in/reebok-os-2-in-1-red-short?
+
+	redirect /Apparel/REEBOK/REEBOK-OSR-2-1-SHORT-p710c220 https://gofootlounge.in/reebok-osr-2-1-black-short?
+
+	redirect /Apparel/ADIDAS/ADIDAS-RUN-TEE-M-p718c220 https://gofootlounge.in/adidas-run-black-tee-m?
+
+	redirect /Apparel/ADIDAS/ADIDAS-RSP-7-INCH-SH-M-p723c220 https://gofootlounge.in/adidas-rsp-7inch-black-short-m?
+
+	redirect /Apparel/ADIDAS/ADIDAS-SQ-CC-RUN-SHO-M-p724c220 https://gofootlounge.in/adidas-sq-cc-run-black-short-m?
+
+	redirect /Apparel/ADIDAS/ADIDAS-ESS-CHELSEA-p731c220 https://gofootlounge.in/adidas-ess-chelsea-white-shorts?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-OS-A-M-GR-SHORT-p750c220 https://gofootlounge.in/reebok-os-a/m-gr-grey-short?
+
+	redirect /Apparel/REEBOK/REEBOK-RE-3IN-SHORT-p751c220 https://gofootlounge.in/reebok-re-3-in-black-shorts?
+
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-Sparta-76-blk-p758c152c179c194 https://gofootlounge.in/at-sparta-76-blk-travel-bag?
+
+	redirect /MEN/ADIDAS/ADIDAS-ACE-15-4-FXG-p760c151 https://gofootlounge.in/adidas-ace-15.4-fxg-green-football-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-AX2-p761c151 https://gofootlounge.in/adidas-ax2--brown-outdoor-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-MADORU-M-p762c222 https://gofootlounge.in/adidas-madoru-m-grey-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-DURAMO-7-M-p763c222 https://gofootlounge.in/adidas-duramo-7-m-white-running-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-SONIC-ATTACK-p764c151 https://gofootlounge.in/adidas-sonic-attack-white-tennis-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-X-15-4-FXG-p765c151 https://gofootlounge.in/%C2%A0adidas-x-15.4-fxg-green-football-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-22YDS-TRAINER-II-p766c151 https://gofootlounge.in/%C2%A0adidas-22-yds-trainer-ii-white-cricket-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-BRIZO-3-0-p767c151 https://gofootlounge.in/adidas-brizo-3.0-grey-flip-flop?
+
+	redirect /LIFESTYLE-SANDALS/ADIDAS/ADIDAS-ELEVATE-p768c221 https://gofootlounge.in/adidas-elevate-black-sandal?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Ryzo-2-0-M-Navy-Blue-Running-Shoes-p770c222 https://gofootlounge.in/adidas-ryzo-2.0-m-navy-blue-running-shoes?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-LITE-PACER-3-M-p771c222 https://gofootlounge.in/adidas-lite-pacer-3-m-green-running-shoe?
+
+	redirect /MEN/ADIDAS/ADIDAS-SONIC-RALLY-p773c151 https://gofootlounge.in/adidas-sonic-rally-white-tennis-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-MADORU-W-p774c222 https://gofootlounge.in/adidas-madoru-w-black-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-HACHI-1-0-W-p775c222 https://gofootlounge.in/adidas-hachi-1.0-w-black-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-HACHI-1-0-W-p775c222 https://gofootlounge.in/adidas-hachi-1.0-w-black-running-shoes?
+
+	redirect /Women/FOOTWEAR/FLIP-FLOPS/ADIDAS/ADIDAS-BRIZO-3-0-W-p776c152c178c188 https://gofootlounge.in/adidas-brizo-3.0-w-blue-flip-flop?
+
+	redirect /KIDS/FOOTWEAR/SANDALS/ADIDAS/ADIDAS-AKWAH-9-K-p778c209c210c212 https://gofootlounge.in/adidas-akwah-9-k-blue-sandal?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-RUN-STREAM-LP-p779c222 https://gofootlounge.in/reebok-run-stream-lp-black-running-shoes?
+
+	redirect /MEN/REEBOK/REEBOK-ADVENTURE-SERPANT-p780c151 https://gofootlounge.in/reebok-adventure-serpant-black-sandal?
+
+	#doubt link
+	redirect /Apparel/ADIDAS/ADIDAS-RS-SS-M-p782c220 https://gofootlounge.in/adidas-rs-ss-m-white-tee?
+
+	#doubt link
+	redirect /Apparel/ADIDAS/ADIDAS-COOL365-TEE-p784c220 https://gofootlounge.in/adidas-cool365-blue-tee?
+
+	#dount link
+	redirect /Apparel/ADIDAS/ADIDAS-TF-BASE-SS-p786c220 https://gofootlounge.in/adidas-tf-base-ss-white-tee?
+
+	redirect /Apparel/ADIDAS/ADIDAS-RESP-TRAD-POLO-p788c220 https://gofootlounge.in/adidas-resp-trad-black-polo?
+
+	redirect /Apparel/ADIDAS/ADIDAS-POLO-p789c220 https://gofootlounge.in/adidas-orange-polo?
+
+	redirect /Apparel/ADIDAS/ADIDAS-ESS-YD-POLO-p790c220 https://gofootlounge.in/adidas-ess-yd-blue-polo?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-RE-SS-TEE-p791c220 https://gofootlounge.in/reebok-os-knit-black-trkstr?
+
+	redirect /Apparel/REEBOK/REEBOK-OS-GRPH-1SHORTB-p793c220 https://gofootlounge.in/reebok-os-grph-multi-color-1shortb?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-WOR-95-TEE-p795c220 https://gofootlounge.in/reebok-wor-95-yellow-tee?
+
+	redirect /Apparel/REEBOK/REEBOK-OS-KNIT-TRKSTR-p797c220 https://gofootlounge.in/reebok-os-knit-dark-grey-trkstr?
+
+	redirect /Apparel/REEBOK/REEBOK-WOR-KNIT-PANT-p798c220 https://gofootlounge.in/reebok-wor-knit-navy-blue-track-pant?
+
+	redirect /Apparel/REEBOK/REEBOK-SE-SLIM-PANT-p799c220 https://gofootlounge.in/reebok-se-slim-royal-orchid-pant?
+
+	redirect /Apparel/REEBOK/REEBOK-SE-PP-TIGHT-p800c220 https://gofootlounge.in/reebok-se-pp-tight-black-track-pants?
+
+	#doubt link
+	redirect /MEN/REEBOK/REEBOK-TRAIL-BLAZE-p801c151 https://gofootlounge.in/reebok-trail-blaze-black-sandal?
+
+#doubt link
+	redirect /MEN/ADIDAS/ADIDAS-ADWEN-p802c151 https://gofootlounge.in/adidas-adwen-multi-color-sandal?
+
+	#doubt link
+	redirect /Women/FOOTWEAR/SANDALS/REEBOK/REEBOK-ULTRA-FLEX-p805c152c178c192 https://gofootlounge.in/reebok-ultra-flex-black-sandals?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-TWISTFORM-CTY-p806c222 https://gofootlounge.in/reebok-twisform-city-black-running-shoes?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-YOURFLEX-TRAINETTE-70-p807c222 https://gofootlounge.in/reebok-yourflex-trainette-7.0-black-running-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-OUTRIDER-p809c151 https://gofootlounge.in/adidas-outrider-black-outdoor-shoes-?
+
+	#doubt link
+	redirect /MEN/ADIDAS/ADIDAS-MESSI-FB-SLIDE-M-p810c151 https://gofootlounge.in/adidas-messi-fb-black-slide-m-?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-LITE-PRIMO-W-p812c222 https://gofootlounge.in/adidas-lite-primo-w-grey-running-shoe?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-HACHI-1-0-M-p813c222 https://gofootlounge.in/adidas-hachi-1.0-m-silver-running-shoes?
+
+	redirect /MEN/REEBOK/REEBOK-ADVENT-II-LP-p815c151 https://gofootlounge.in/reebok-advent-ii-lp-black-flip-flops?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-SPEEDY-CHARGE-LP-p816c222 https://gofootlounge.in/reebok-speedy-charge-lp-grey-running-shoe?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-THRILL-RUN-LP-p818c222 https://gofootlounge.in/reebok-run-thrill-lp-blue-running-shoes?
+
+	redirect /MEN/REEBOK/REEBOK-REVERSE-SMASH-LP-p819c151 https://gofootlounge.in/reebok-reverse-smash-lp-black-outdoor-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ACCIOMAX-4-0-LP-p820c222 https://gofootlounge.in/reebok-acciomax-4.0-lp-black-running-shoes?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ACTIVE-SPORT-4-0-LP-p823c222 https://gofootlounge.in/reebok-active-sport-4.0-lp-grey-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/PUMA/PUMA-KEVLER-DP-p825c222 https://gofootlounge.in/puma-kevler-dp-black-running-shoe?
+
+	redirect /MEN/ADIDAS/ADIDAS-EEZAY-GR-p827c151 https://gofootlounge.in/adidas-eezay-gr-grey-flip-flop?
+
+	#doubt link
+	redirect /MEN/PUMA/PUMA-Woody-Dp-p828c151 https://gofootlounge.in/puma-woody-dp-navy-blue-sandal?
+
+	redirect /KIDS/FOOTWEAR/ADIDAS/ADIDAS-PREDITO-LZ-TRX-FG-J-p830c209c210 https://gofootlounge.in/adidas-predito-lz-trx-fg-j-pink-football-shoes?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/Nike-CP-TRAINER-BLU-p831c222 https://gofootlounge.in/nike-cp-trainer-blu-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/NIKE/Nike-CP-TRAINER-GRY-p832c222 https://gofootlounge.in/nike-cp-trainer-gry-running-shoes?
+
+	redirect /Women/FOOTWEAR/WALKING/REEBOK/REEBOK-SKYSCAPE-HARMONY-p833c152c178c180 https://gofootlounge.in/reebok-skyscape-harmony-pink-walking-shoes?
+
+	redirect /MEN/REEBOK/REEBOK-ZQUICK-TR-4-0-p834c151 https://gofootlounge.in/reebok-zquick-tr-4.0-grey-training-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-EXHILARUN-p835c222 https://gofootlounge.in/reebok-exhilarun-white-running-shos?
+
+	redirect /MEN/REEBOK/REEBOK-SOLAR-FLIP-p836c151 https://gofootlounge.in/reebok-solar-black-flip-flop?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ACTIVE-SPORT-4-0-p837c222 https://gofootlounge.in/reebok-active-sport-4.0-white-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-ADI-PACER-M-p838c222 https://gofootlounge.in/adidas-adipacer-m-black-running-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-MESSI-15-3-FG-AG-p839c151 https://gofootlounge.in/adidas-messi-15-3-fg-ag?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-DURAMO-7-W-p840c222 https://gofootlounge.in/adidas-duramo-7-w-red-running-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-AX2-II-p841c151 https://gofootlounge.in/adidas-ax2-ii-blue-outdoor-shoes?
+
+	#doubt link
+	redirect /MEN/ADIDAS/ADIDAS-TERRA-SPORTS-p842c151 https://gofootlounge.in/adidas-terra-sports-black-sandal?
+
+	redirect /MEN/FOOTWEAR/SPORTS/INDOOR/ADIDAS/ADIDAS-TORUS-IN-p844c151c105c76c155 https://gofootlounge.in/adidas-torus-in-white-tennis-shoes?
+
+	redirect /Apparel/ADIDAS/ADIDAS-ESS-THETEE-p876c220 https://gofootlounge.in/adidas-ess-the-frost-green-tee?
+
+	redirect /Apparel/ADIDAS/ADIDAS-AIS-PRIME-TEE-p877c220 https://gofootlounge.in/adidas-ais-prime-pink-tee?
+
+	#doubt link
+	redirect /Apparel/ADIDAS/ADIDAS-3S-YOGA-PANT-p878c220 https://gofootlounge.in/%C2%A0adidas-3s-yoga-black-track-pant?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-TRAIN-CONQUER-T-p882c220 https://gofootlounge.in/reebok-train-conquer-white-tee?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-RE-5-INCH-SHORT-p884c220 https://gofootlounge.in/reebok-re-5-inch-black-shorts?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-SE-PD-CORE-TEE-p887c220 https://gofootlounge.in/reebok-se-pd-core-dark-pink-tee?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-RE-3-INCH-SHORT-p891c220 https://gofootlounge.in/reebok-re-3-inch-indigo-shorts?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-OS-GR-KNIT-SH-p893c220 https://gofootlounge.in/reebok-os-gr-knit-grey-shorts?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-OS-ADV-WVN-PANT-p896c220 https://gofootlounge.in/reebok-os-adv-wvn-black-track-pant-?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-WOR-CAMO-B-SHRT-p898c220 https://gofootlounge.in/reebok-wor-camo-b-olive-short?
+
+	redirect /Apparel/REEBOK/REEBOK-EL-JERSEY-PNT-p900c220 https://gofootlounge.in/reebok-el-jersey-grey-track-pant-?
+
+redirect /FITNESS/BOTTLE/REEBOK/REEBOK-STUDIO-WATERBOT-p901c140c150 https://gofootlounge.in/reebok-studio-poppy-red-water-bottle?
+
+	redirect /Women/ACCESSORIES/CAPS/REEBOK/REEBOK-OS-RUN-PERF-CAP-p902c152c179c181 https://gofootlounge.in/reebok-os-run-perf-black-cap?
+
+	redirect /Women/ACCESSORIES/ANKLE-SOCKS/REEBOK/REEBOK-OS-TR-U-3P-SOCK-p903c152c179c183 https://gofootlounge.in/reebok-os-tr-u-3p-whilte-ankle-socks?
+
+	redirect /MEN/ACCESSORIES/SOCKS/ANKLE-SOCKS/REEBOK/REEBOK-MENS-ANKL-SOCK-p909c151c89c91c166 https://gofootlounge.in/reebok-mens-white-ankle-socks?
+
+	#doubt link
+	redirect /MEN/ACCESSORIES/SOCKS/INSIDE-SOCKS/REEBOK/REEBOK-MS-INSIDE-SOCK-p910c151c89c91c168 https://gofootlounge.in/reebok-ms-inside-white-socks?
+
+	redirect /Women/ACCESSORIES/CREW-SOCKS/REEBOK/REEBOK-WS-STD-SOCK-PACK3-p912c152c179c191 https://gofootlounge.in/reebok-ws-std-sock-pack3?
+
+	redirect /Women/ACCESSORIES/INSIDE-SOCKS/REEBOK/REEBOK-WS-IN-SOCK-PACK3-p913c152c179c193 https://gofootlounge.in/reebok-ws-multi-color-inside-socks-pack3?
+
+	redirect /Women/ACCESSORIES/INSIDE-SOCKS/REEBOK/REEBOK-WS-INSIDE-SOCK-p914c152c179c193 https://gofootlounge.in/reebok-ws-multi-color-inside-socks?
+
+	#doubt link
+	redirect /FITNESS/BOTTLE/REEBOK/REEBOK-WTR-BTL-PI-65CL-REEBOK-p915c140c150 https://gofootlounge.in/reebok-wtr-btl-pi-65cl-blue-?
+
+	redirect /FITNESS/YOGAMAT/REEBOK/REEBOK-ELEMENTS-YOGA-MAT-p917c140c141 https://gofootlounge.in/reebok-grey-yoga-mat?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/CAPS/ADIDAS/ADIDAS-R-CLMLT-3S-CAP-p918c152c179c181 https://gofootlounge.in/adidas-r-clmlt-3s-blue-cap?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/CAPS/ADIDAS/ADIDAS-RUN-CLMCO-CAP-p920c152c179c181 https://gofootlounge.in/adidas-run-clmco-black-cap?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/CAPS/ADIDAS/ADIDAS-CLMLT-6P-3SOFF-p922c152c179c181 https://gofootlounge.in/adidas-clmlt-6p-3soff-blue-cap?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/CAPS/ADIDAS/ADIDAS-PERF-CAP-3S-CO-p924c152c179c181 https://gofootlounge.in/adidas-perf-3s-co-white-cap-?
+
+	redirect /Women/ACCESSORIES/CREW-SOCKS/ADIDAS/ADIDAS-BASKET-ID-FC-1P-p930c152c179c191 https://gofootlounge.in/adidas-basket-id-fc-1p-multi-color-crew-socks?
+
+	redirect /Women/ACCESSORIES/ANKLE-SOCKS/ADIDAS/ADIDAS-R-E-ANK-GR-TC1P-p931c152c179c183 https://gofootlounge.in/adidas-r-e-ank-gr-tc1p-multi-color-ankle-socks?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/ANKLE-SOCKS/ADIDAS/ADIDAS-R-L-ANKLE-T1P-p932c152c179c183 https://gofootlounge.in/Women/ACCESSORIES/ANKLE-SOCKS/ADIDAS/ADIDAS-R-L-ANKLE-T1P-p932c152c179c183?
+
+	redirect /Women/ACCESSORIES/ANKLE-SOCKS/ADIDAS/ADIDAS-R-E-N-SHOW-TC1P-p934c152c179c183 https://gofootlounge.in/adidas-r-e-n-show-tc1p-multi-color-ankle-socks?
+
+	redirect /Women/ACCESSORIES/CREW-SOCKS/ADIDAS/ADIDAS-AIS-T-TC-1PP-p935c152c179c191 https://gofootlounge.in/adidas-ais-t-tc-1pp-black-crew-socks?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Ryzo-2-0-M-Dark-Grey-Running-Shoes-p936c222 https://gofootlounge.in/adidas-ryzo-2.0-m-dark-grey-running-shoes?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-GALAXY-2-M-p938c222 https://gofootlounge.in/adidas-galaxy-2-m-blue-running-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-TORUS-p942c151 https://gofootlounge.in/adidas-torus-dark-grey-tennis-shoes?
+
+	#doubt link
+	redirect /MEN/ADIDAS/ADIDAS-CALO-5-GR-M-p943c151 https://gofootlounge.in/adidas-calo-5-gr-m-grey-flip-flop?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-RYZO-2-0-W-p947c222 https://gofootlounge.in/adidas-ryzo-2.0-w-black-running-shoes?
+
+	#doubt link
+	redirect /MEN/ADIDAS/ADIDAS-STORM-RAISER-1-0-p948c151 https://gofootlounge.in/adidas-storm-raiser-1.0-midnight-blue-outdoor-shoes?
+
+	redirect /FITNESS/WRIST-WEIGHT/REEBOK/REEBOK-WRIST-WEIGHT-p950c140c149 https://gofootlounge.in/reebok-wrist-weights-1.0kg-blue-647c?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-JET-DASHRIDE-p951c222 https://gofootlounge.in/reebok-jet-dashride-black-running-shoes?
+
+	redirect /Apparel/ADIDAS/ADIDAS-RESPONSE-BERMUDA-p956c220 https://gofootlounge.in/adidas-response-bermuda-white-shorts?
+
+	redirect /Apparel/ADIDAS/ADIDAS-RESPONSE-TREND-p957c220 https://gofootlounge.in/adidas-response-trend-white-tee?
+
+	#doubt link
+	redirect /Apparel/ADIDAS/ADIDAS-STRGR-SHORT-p958c220 https://gofootlounge.in/adidas-strgr-black-shorts?
+
+	redirect /Apparel/ADIDAS/ADIDAS-ESS-THE-SHORT-p961c220 https://gofootlounge.in/adidas-ess-the-navy-blue-short?
+
+	#doubt link
+	redirect /Apparel/ADIDAS/ADIDAS-ULT-TEAM-TIGHT-p962c220 https://gofootlounge.in/adidas-ult-team-multi-color-tight-?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-LITE-RUNNER-M-p964c222 https://gofootlounge.in/adidas-lite-runner-m-black-running-shoe?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-GALACTIC-ELITE-M-p966c222 https://gofootlounge.in/adidas-galactic-elite-black-running-shoes?
+
+	redirect /Women/FOOTWEAR/FLIP-FLOPS/ADIDAS/ADIDAS-CALO-5-GR-W-p967c152c178c188 https://gofootlounge.in/adidas-calo-5-gr-w-multi-color-flip-flop?
+
+	redirect /Apparel/ADIDAS/ADIDAS-AK-TEE-SOLID-p968c220 https://gofootlounge.in/adidas-ak-black-solid-tee?
+
+	redirect /Women/ACCESSORIES/BAGPACK/ADIDAS/ADIDAS-3S-PER-BP-p969c152c179c189 https://gofootlounge.in/%C2%A0adidas-3s--per-bp-grey-back-pack?
+
+	redirect /Women/ACCESSORIES/CREW-SOCKS/ADIDAS/ADIDAS-PER-CREW-T-1PP-p970c152c179c191 https://gofootlounge.in/adidas-per-crew-t-1pp-black-socks?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/ANKLE-SOCKS/ADIDAS/ADIDAS-PER-ANKLE-T-1PP-p971c152c179c183 https://gofootlounge.in/adidas-per-ankle-t-1pp-grey-ankle-socks?
+
+	#doubt link
+	redirect /MEN/ADIDAS/ADIDAS-ADIPURE-SLIDE-M-p973c151 https://gofootlounge.in/adidas-adipure-cf-navy-blue-flip-flops?
+
+	redirect /MEN/ADIDAS/ADIDAS-ARON-1-0-p975c151 https://gofootlounge.in/adidas-aron-1.0-navy-blue-sandal?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ELECTRIFY-SPEED-p976c222 https://gofootlounge.in/reebok-electrify-speed-black-running-shoes?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-EL-WOVEN-SHRT-p977c220 https://gofootlounge.in/reebok-el-woven-grey-short?
+
+	redirect /MEN/REEBOK/REEBOK-ADVENT-II-p981c151 https://gofootlounge.in/reebok-advent-brown-flip-flops?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ELECTRO-RUN-p982c222 https://gofootlounge.in/reebok-electro-run-red-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-DUO-RUNNER-p988c222 https://gofootlounge.in/reebok-duo-runner-blue-running-shoe?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-TEMPO-SPEEDSTER-p989c222 https://gofootlounge.in/reebok-tempo-speedster-black-running-shoes?
+
+	redirect /Apparel/REEBOK/REEBOK-CF-LS-MIDWT-COM-p991c220 https://gofootlounge.in/reebok-cf-ls-midwt-com-brown-tee?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-TWISTFORM-GR-p992c222 https://gofootlounge.in/reebok-twisform-gr-grey-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-FURY-ROAD-2-0-p994c222 https://gofootlounge.in/reebok-fury-road-black-running-shos?
+
+	#doubt link
+	redirect /Apparel/REEBOK/REEBOK-EL-WOVEN-OH-PNT-p995c220 https://gofootlounge.in/reebok-el-woven-oh-navy-blue-track-pant?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/CAPS/ADIDAS/ADIDAS-ESS-3S-VISOR-p999c152c179c181 https://gofootlounge.in/adidas-ess-3s-visor-white-cap?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ATHLETIC-FLEX-p1001c222 https://gofootlounge.in/reebok-athletic-flex-blue-running-shoes?
+	
+	
+	#my code
+
+	redirect /MEN/FOOTWEAR/LIFESTYLE/FORMAL/LEE-COOPER/LEE-COOPER-BROWN-LACE-FORMAL-SHOE-p1002c151c105c25c156 https://gofootlounge.in/reebok-athletic-flex-blue-running-shoes?
+
+	
+	redirect /MEN/WOODLAND/WOODLAND-KHAKI-LACE-SHOE-p1003c151 https://gofootlounge.in/woodland-khaki-lace-outdoor-shoe?
+
+
+
+	redirect /Apparel/FOOTLOUNGE/FL-TWIN-COLOUR-PANT-p1004c220 https://gofootlounge.in/fl-twin-color-pant?
+
+	redirect /MEN/REEBOK/REEBOK-GRADIENT-FLIP-II-LP-p1005c151 https://gofootlounge.in/reebok-gradient-flip-ii-lp-blue-flip-flop?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-ONE-DISTANCE-p1006c222 https://gofootlounge.in/reebok-one-distance-blue-running-shoes?
+
+	#doubt link
+	redirect /Apparel/FOOTLOUNGE/FL-PANT-BLK-p1007c220 https://gofootlounge.in/fl-pant-blk?
+
+	redirect /Apparel/FOOTLOUNGE/FL-TRACK-PANT-p1009c220 https://gofootlounge.in/fl-navy-blue-track-pants?
+
+	redirect /Apparel/FOOTLOUNGE/FL-TRACK-PANT-p1009c220 https://gofootlounge.in/fl-navy-blue-track-pants?
+
+	redirect /Apparel/FOOTLOUNGE/FL-TWIN-COLOUR-PANT-p1010c220 https://gofootlounge.in/fl-twin--color-pant?
+
+	redirect /Apparel/FOOTLOUNGE/FL-PANT-GRY-p1011c220 https://gofootlounge.in/fl-pant-gry?
+
+	redirect /Apparel/FOOTLOUNGE/FL-TRACK-PANT-BLK-p1012c220 https://gofootlounge.in/fl-track-pant-blk?
+	
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-ERMIS-M-p1013c222 https://gofootlounge.in/adidas-ermis-m-grey-running-shoes?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-DURAMO-ELITE-M-p1015c222 https://gofootlounge.in/adidas-duramo--elite-m-black-running-shoes?
+
+	#doubt link
+	redirect /Women/FOOTWEAR/CARDIO/REEBOK/REEBOK-CARDIO-ULTRA-p1017c152c178c199 https://gofootlounge.in/reebok-cardio-ultra-green-cardio-shoes?
+
+	redirect /Women/FOOTWEAR/SANDALS/ADIDAS/ADIDAS-ALSEK-W-p1020c152c178c192 https://gofootlounge.in/adidas-alsek-w-black-sandal?
+
+	#doubt link
+	redirect /Women/FOOTWEAR/SANDALS/ADIDAS/ADIDAS-SPRY-W-p1021c152c178c192 https://gofootlounge.in/adidas-spry-w-black-sandal?
+
+	RewriteRule /MEN/ADIDAS/ADIDAS-X-15-4-FXG-p1023c151 https://gofootlounge.in/adidas-x-15.4-fxg-orange-football-shoes?
+
+	RewriteRule /MEN/ADIDAS/ADIDAS-MESSI-15-4-FXG-p1025c151 https://gofootlounge.in/adidas-messi-15.4--fxg-blue-football-shoes?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-EZAR-1-0-M-p1026c222 https://gofootlounge.in/adidas-ezar-1.0-m-multi-color-running-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-BULLY-p1029c151 https://gofootlounge.in/%C2%A0adidas-bully-blue-basketball-shoes?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-GALAXY-2-M-p1030c222 https://gofootlounge.in/adidas-galaxy-2-m-black-running-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-BULLY-p1029c151 https://gofootlounge.in/%C2%A0adidas-bully-blue-basketball-shoes?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-GALAXY-2-M-p1030c222/ https://gofootlounge.in/adidas-galaxy-2-m-black-running-shoes?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/ADIDAS-GALAXY-2-M-p1030c222 https://gofootlounge.in/adidas-galaxy-2-m-black-running-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-22YDS-TRAINER-III-p1034c151 https://gofootlounge.in/%C2%A0adidas-22-yds-trainer-white-cricket-shoes?
+
+	redirect /MEN/ADIDAS/ADIDAS-GOLETTO-V-FG-p1036c151 https://gofootlounge.in/adidas-goletto-v-fg-football-shoes?
+
+	redirect /Apparel/FOOTLOUNGE/FL-POLO-BLK-p1037c220 https://gofootlounge.in/fl-polo-blk?
+
+	redirect /Apparel/FOOTLOUNGE/FL-POLO-BLU-p1038c220 https://gofootlounge.in/fl-polo-blu?
+
+	redirect /MEN/CLOTHING/SHORTS/FOOTLOUNGE/FL-SHORTS-BLK-p1039c151c153c160 https://gofootlounge.in/fl-shorts-blk?
+
+	redirect /MEN/CLOTHING/SHORTS/FOOTLOUNGE/FL-Shorts-BLACK-p1040c151c153c160 https://gofootlounge.in/fl-shorts-black?
+
+	redirect /MEN/ADIDAS/ADIDAS-BRIZO-4-0-p1041c151 https://gofootlounge.in/adidas-brizo-4.0-black-flip-flop?
+
+	#doubt link
+	redirect /MEN/CLOTHING/WINTER/REEBOK/REEBOK-MS-COR-JACKET-p1042c151c153c164 https://gofootlounge.in/reebok-ms-cor-black-jacket?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-SUBLITE-AUTHENTIC-2-0-p1046c222 https://gofootlounge.in/reebok-sublite-authentic-2.0-red-running-shoes?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-SUBLITE-SUPER-DUO-p1048c222 https://gofootlounge.in/reebok-sublite-super-duo-green-running-shoe?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-Sublite-Super-Duo-Gr-p1051c222 https://gofootlounge.in/reebok-sublite-super-duo-gr-black-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/REEBOK-Sublite-Super-Duo-Gr-p1052c222 https://gofootlounge.in/reebok-sublite-super-duo-gr-olive-running-shoe?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Kray-M-p1053c222 https://gofootlounge.in/adidas-kray-3.0-m--grey-running-shoe?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Kray-M-p1054c222 https://gofootlounge.in/adidas-kray-3.0-m-navy-blue-running-shoe?
+
+	redirect /MEN/FOOTWEAR/SPORTS/INDOOR/ADIDAS/Adidas-Acosta-In-p1057c151c105c76c155 https://gofootlounge.in/adidas-acosta-in-white-indoor-shoes?
+
+	#doubt link
+	redirect /MEN/ADIDAS/Adidas-Aril-p1058c151 https://gofootlounge.in/adidas-aril-dark-blue-flip-flop?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/Reebok-Sublite-Dual-Dash-p1060c222 https://gofootlounge.in/reebok-sublite-dual-dash-blue-running-shoes?
+
+	#doubt link
+	redirect /MEN/REEBOK/Reebok-Trail-Blaze-2-0-p1061c151 https://gofootlounge.in/reebok-trail-blaze-black-sandal?
+
+	#doubt link
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Kray-W-p1064c222 https://gofootlounge.in/adidas-kray-3.0-w-grey-running-shoe?
+
+	#doubt link
+	redirect /Women/FOOTWEAR/SANDALS/REEBOK/Reebok-Adventure-Chrome-II-p1066c152c178c192 https://gofootlounge.in/reebok-adventure-chrome-black-sandal?
+
+	redirect /Apparel/ADIDAS/Adidas-RS-7-Inch-Short-M-p1075c220 https://gofootlounge.in/adidas-rs-7-inch-blue-shorts-m?
+
+	redirect /MEN/ADIDAS/Adidas-Barricade-Court-p1077c151 https://gofootlounge.in/adidas-barricade-court-black-tennis-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Ryzo-2-0-M-p1078c222 https://gofootlounge.in/adidas-ryzo-2.0-m-grey-running-shoes?
+
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-Ski-Small-size-p1080c152c179c194 https://gofootlounge.in/at-ski-grey-small-travel-bag?
+
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-Ski-Medium-p1081c152c179c194 https://gofootlounge.in/at-ski-grey-medium-travel-bag?
+
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-Ski-Large-p1082c152c179c194 https://gofootlounge.in/at-ski-grey-large-travel-bag?
+
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-SPEED-SPINNER-55CM-T-BLUE-p1083c152c179c194 https://gofootlounge.in/at-speed-spinner-55cm-t-blue-travel-bag-?
+	
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-SPEED-SPINNER-66CM-T-BLUE-p1084c152c179c194 https://gofootlounge.in/at-speed-spinner-66cm-t-blue-travel-bag-?
+
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-SPEED-SPINNER-76CM-T-BLUE-p1085c152c179c194 https://gofootlounge.in/at-speed-spinner-76cm-t-blue-travel-bag-?
+
+	redirect /Women/FOOTWEAR/FLIP-FLOPS/ADIDAS/Adidas-Brizo-4-0-W-p1086c152c178c188 https://gofootlounge.in/adidas-brizo-4.0-w--multi-color-flip-flop?
+
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-Quader-Spinner-55-cm-p1087c152c179c194 https://gofootlounge.in/at-quader-orange-small-spinner?
+
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-Quader-Spinner-Medium-p1088c152c179c194 https://gofootlounge.in/at-quader-orange-medium-spinner?
+
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-Quader-Purple-Small-p1089c152c179c194 https://gofootlounge.in/at-quader-purple-small-travel-bag?
+
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-Quader-Purple-Medium-p1090c152c179c194 https://gofootlounge.in/at-quader-purple-medium-travel-bag?
+
+	#doubt link
+	redirect /Women/ACCESSORIES/TRAVEL-BAG/AMERICAN-TOURISTER/AT-Quader-Purple-Large-p1091c152c179c194 https://gofootlounge.in/at-quader-purple-large-travel-bag?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Galaxy-Elite-W-p1093c222 https://gofootlounge.in/adidas-galaxy-elite-w-grey-running-shoes?
+
+	redirect /MEN/ADIDAS/Adidas-EC-BP-Bag-p1094c151 https://gofootlounge.in/adidas-ec-bp-black-back-pack?
+
+	redirect /Women/ACCESSORIES/BAGPACK/ADIDAS/NGA-1-0-M-Bagpack-p1095c152c179c189 https://gofootlounge.in/adidas-nga-1.0-m-black-back-pack?
+
+	#doubt link
+	redirect /MEN/ADIDAS/Adidas-Brian-2-0-p1096c151 https://gofootlounge.in/adidas-brian-2.0-blue-sandal?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Energy-Bounce-p1098c222 https://gofootlounge.in/adidas-energy-bounce-m-grey-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Ryzo-3-0-M-p1099c222 https://gofootlounge.in/adidas-ryzo-3.0-m-navy-blue-running-shoes?
+
+	#doubt link
+	redirect /MEN/ADIDAS/Adidas-Marengo-p1100c151 https://gofootlounge.in/adidas-maringo-grey-sandal?
+
+	redirect /MEN/ADIDAS/Adidas-Ace-16-4-Fxg-p1103c151 https://gofootlounge.in/adidas-ace-16.4-fxg-green-football-shoes?
+
+	redirect /MEN/ADIDAS/Adidas-All-Rounder-Power-p1104c151 https://gofootlounge.in/adidas-all-rounder-power-white-cricket-shoes?
+
+	redirect /MEN/ADIDAS/Adidas-Calo-5-M-p1105c151 https://gofootlounge.in/adidas-calo-5-m-grey-flip-flop?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Madoru-2-M-p1106c222 https://gofootlounge.in/adidas-madoru-2-m-grey-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/REEBOK/Reebok-Jet-Dash-Ride-2-0-p1107c222 https://gofootlounge.in/reebok-jet-dashride-2.0-black-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Alcor-Syn-1-0-M-p1109c222 https://gofootlounge.in/adidas-alcor-syn-10-m-black-running-shoes?
+
+	redirect /MEN/ADIDAS/Adidas-Adissage-Thong-Gr-M-p1110c151 https://gofootlounge.in/adidas-adissaege-thong-gr-m-black-flip-flops?
+
+	redirect /MEN/ADIDAS/Adidas-Andorian-Navy-Blue-Outdoor-Shoes-p1131c151 https://gofootlounge.in/adidas-andorian-navy-blue-outdoor-shoes?
+
+	redirect /MEN/ADIDAS/Adidas-Andorian-Blue-Outdoor-Shoes-p1132c151 https://gofootlounge.in/adidas-andorian-blue-outdoor-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Duramo-7-1-Multi-Color-Running-Shoes-p1133c222 https://gofootlounge.in/adidas-duramo-71-multi-color-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Yking-M-Grey-Running-Shoes-p1134c222 https://gofootlounge.in/adidas-yking-m-grey-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Yking-M-Navy-Blue-Running-Shoes-p1135c222 https://gofootlounge.in/adidas-yking-m-navy-blue-running-shoes?
+
+	redirect /MEN/ADIDAS/Adidas-Jaso-Stripe-M-Red-Flip-Flops-p1136c151 https://gofootlounge.in/adidas-jaso-stripe-m-red-flip-flops?
+
+	redirect /MEN/ADIDAS/Adidas-Duramo-Slide-Multi-Color-Flip-Flop-p1137c151 https://gofootlounge.in/adidas-duramo-slide-multi-color-flip-flop?
+
+	redirect /MEN/ADIDAS/Adidas-Ax2-Grey-Outdoor-Shoes-p1138c151 https://gofootlounge.in/adidas-ax2-grey-outdoor-shoes?
+
+	redirect /MEN/ADIDAS/Adidas-Ax2-Navy-Blue-Outdoor-Shoes-p1139c151 https://gofootlounge.in/adidas-ax2-navy-blue-outdoor-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Madoru-2-M-Grey-Running-Shoes-p1106c222&C=INR https://gofootlounge.in/adidas-madoru-2-m-grey-running-shoes?
+
+	redirect /Women/ACCESSORIES/ADIDAS/Adidas-Linear-Blue-Training-Beanie-p1151c152c179 https://gofootlounge.in/adidas-linear-blue-training-beanie?
+
+	redirect /MEN/ACCESSORIES/BEANIE/ADIDAS/Adidas-Mufc-Red-Football-Beanie-p1152c151c89c170 https://gofootlounge.in/adidas-mufc-red-football-beanie?
+
+	redirect /MEN/ACCESSORIES/BEANIE/ADIDAS/Adidas-Perf-3s-Grey-Training-Beanie-p1153c151c89c170 https://gofootlounge.in/adidas-perf-3s-grey-training-beanie?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Yking-M-Navy-Blue-Running-Shoes-p1135c222&limit=75 https://gofootlounge.in/adidas-yking-m-navy-blue-running-shoes?
+
+	redirect /MEN/ADIDAS/Adidas-Andorian-Navy-Blue-Outdoor-Shoes-p1131c151&C=INR&limit=25 https://gofootlounge.in/adidas-andorian-navy-blue-outdoor-shoes?
+
+	redirect /MEN/ADIDAS/Adidas-Jaso-Stripe-M-Red-Flip-Flops-p1136c151&limit=75 https://gofootlounge.in/adidas-jaso-stripe-m-red-flip-flops?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Yking-M-Navy-Blue-Running-Shoes-p1135c222&limit=75 https://gofootlounge.in/adidas-yking-m-navy-blue-running-shoes?
+
+	redirect /MEN/FOOTWEAR/SPORTS/INDOOR/ADIDAS/Adidas-Acosta-In-p1057c151c105c76c155m15?page=1&limit=100 https://gofootlounge.in/adidas-acosta-in-white-indoor-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Duramo-77-Black-Running-Shoes-p1141c222&limit=25 https://gofootlounge.in/adidas-duramo-77-black-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Falcon-Elite-5-M-Black-Running-Shoes-p1143c222 https://gofootlounge.in/adidas-falcon-elite-5-m-running-shoes?
+
+	redirect /index.php?route=product/product&product_id=814 https://gofootlounge.in/adidas-hachi-1.0-m-navy-blue-running-shoes?
+
+	redirect /PERFORMANCE-RUNNING/ADIDAS/Adidas-Ezar-2-0-M-Navy-Blue-Running-Shoes-p1144c222 https://gofootlounge.in/adidas-ezar-20-black-running-shoes?
+
+
+
+
+	redirect /reebok-jet-dashride-20-navy-blue-running-shoes https://gofootlounge.in/reebok-jet-dashride-2.0-navy-blue-running-shoes?
+
+	redirect /adidas-ryzo-30-w-grey-running-shoes https://gofootlounge.in/adidas-ryzo-3.0-w-grey-running-shoes?
+
+	redirect /adidas-hachi-10-m-black-running-shoes https://gofootlounge.in/adidas-hachi-1.0-m-black-running-shoes?
+
+	redirect /adidas-kerio-syn-30-m-black-sandals https://gofootlounge.in/adidas-kerio-syn-3.0-m-black-sandals?
+
+	redirect /adidas-kerio-syn-30-m-navy-sandals https://gofootlounge.in/adidas-kerio-syn-3.0-m-navy-blue-sandals?
+
+
+
+# 1.To use URL Alias you need to be running apache with mod_rewrite enabled.
+
+# 2. In your opencart directory rename htaccess.txt to .htaccess.
+
+# For any support issues please visit: http://www.opencart.com
+
+Options +FollowSymlinks
+
+# Prevent Directoy listing
+Options -Indexes
+
+# Prevent Direct Access to files
+<FilesMatch "(?i)((\.tpl|\.ini|\.log|(?<!robots)\.txt))">
+ Order deny,allow
+ Deny from all
+</FilesMatch>
+
+# SEO URL Settings
+# RewriteEngine On
+# If your opencart installation does not run on the main web folder make sure you folder it does run in ie. / becomes /shop/
+
+# RewriteBase /
+RewriteRule ^sitemap.xml$ index.php?route=feed/google_sitemap [L]
+RewriteRule ^googlebase.xml$ index.php?route=feed/google_base [L]
+RewriteRule ^system/download/(.*) index.php?route=error/not_found [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !.*\.(ico|gif|jpg|jpeg|png|js|css)
+RewriteRule ^([^?]*) index.php?_route_=$1 [L,QSA]
+
+
+
+### Additional Settings that may need to be enabled for some servers
+### Uncomment the commands by removing the # sign in front of it.
+### If you get an "Internal Server Error 500" after enabling any of the following settings, restore the # as this means your host doesn't allow that.
+
+# 1. If your cart only allows you to add one item at a time, it is possible register_globals is on. This may work to disable it:
+# php_flag register_globals off
+
+# 2. If your cart has magic quotes enabled, This may work to disable it:
+# php_flag magic_quotes_gpc Off
+
+# 3. Set max upload file size. Most hosts will limit this and not allow it to be overridden but you can try
+# php_value upload_max_filesize 999M
+
+# 4. set max post size. uncomment this line if you have a lot of product options or are getting errors where forms are not saving all fields
+# php_value post_max_size 999M
+
+# 5. set max time script can take. uncomment this line if you have a lot of product options or are getting errors where forms are not saving all fields
+# php_value max_execution_time 200
+
+# 6. set max time for input to be recieved. Uncomment this line if you have a lot of product options or are getting errors where forms are not saving all fields
+# php_value max_input_time 200
+
+# 7. disable open_basedir limitations
+# php_admin_value open_basedir none
+suPHP_ConfigPath /home/footlounge/public_html
