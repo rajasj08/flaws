@@ -3,7 +3,8 @@
 define('HTTP_SERVER', 'https://gofootlounge.in/fladmin15/');
 define('HTTP_CATALOG', 'https://gofootlounge.in/');
 
-$documentRoot = $_SERVER['DOCUMENT_ROOT'].'/';
+$documentRoot = "/var/app/current/";
+
 define('DOCUMENT_ROOT', $documentRoot); 
 
 // HTTPS
@@ -24,10 +25,12 @@ define('DIR_LOGS', $documentRoot. 'system/logs/');
 define('DIR_CATALOG', $documentRoot. 'catalog/');
 
 // DB
+
 define('DB_DRIVER', 'mysql');
-define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'footloun_demo');
+define('DB_HOSTNAME', 'aa128rcsxrj96v2.cvwrkeif9dtm.ap-south-1.rds.amazonaws.com');
+define('DB_USERNAME', 'fladmin');
 define('DB_PASSWORD', 'Welcome!23');
-define('DB_DATABASE', 'footloun_foot_031516');
+define('DB_DATABASE', 'ebdb');
+define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
 ?>
